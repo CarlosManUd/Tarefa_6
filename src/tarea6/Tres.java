@@ -2,7 +2,7 @@ package tarea6;
 
 /**
  *
- * @author Hallo
+ * @author carli
  */
 public class Tres extends Duas{
 

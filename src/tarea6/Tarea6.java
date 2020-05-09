@@ -2,7 +2,7 @@ package tarea6;
 
 /**
  *
- * @author ivansteuerberg
+ * @author carli
  */
 public class Tarea6 {
 
